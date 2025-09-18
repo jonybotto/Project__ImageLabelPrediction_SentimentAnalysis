@@ -7,7 +7,7 @@ These are 2 university projects designed to teach students how to use CNN's and 
 
 For the CNN project, the intent is for me to design such a model from scratch in order to predict image labels. Regarding the transformer project, I need to fine-tune RoBERTa, a pre-trained transformer model, to perform sentiment analysis on text data.
 
-The final objectives are to reach a final test accuracy > 75% for the CNN model, and a final F$_1$-score > 0.77 for the fine-tuned RoBERTa model.
+The final objectives are to reach a final test accuracy > 75% for the CNN model, and a final F<sub>1</sub>-score > 0.77 for the fine-tuned RoBERTa model.
 
 &nbsp;
 
